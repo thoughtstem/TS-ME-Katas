@@ -21,5 +21,7 @@
 @(scribblify-collection hello-world-katas)
 
 @(sections-for kata-section
-               text-katas)
+               text-katas
+               page-katas
+               mode-katas)
               

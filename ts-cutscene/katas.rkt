@@ -22,4 +22,6 @@
   hello-world-katas
   
   text-katas
+  page-katas
+  mode-katas
   )
