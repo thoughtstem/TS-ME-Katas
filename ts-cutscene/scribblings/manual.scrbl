@@ -23,5 +23,5 @@
 @(sections-for kata-section
                text-katas
                page-katas
-               mode-katas)
+               sprites-katas)
               
