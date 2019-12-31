@@ -25,5 +25,14 @@
    'page-4
    (list "The background options are: desert-bg, forest-bg, lava-bg, pink-bg, and snow-bg.")
    'page-5
-   (list "The default page size is 800x600.")
+   (list "The default page size is 800x600. The position (0,0) is the center of the page.")
+   'page-8
+   (list "mode also accepts a number (from 0 to 359) as the scrolling direction; 0 means scroll to the right.")
+
+   'sprites-1
+   (list "For more options, in the interaction window type: pokemon, minecraft, marvel, starwars, harrypotter, mario, or all-sprites")
+   'sprites-3
+   (list "The default scroll speed is 50.")
+   'sprites-4
+   (list "For an entity the position (0,0) is the top-left corner.")
 ))
