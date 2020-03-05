@@ -1,5 +1,7 @@
 #lang scribble/manual
 
+@require[scribble/extract]
+
 @(require ts-kata-util/katas/rendering
           ts-kata-util/katas/main
            "../katas.rkt"
@@ -24,4 +26,9 @@
                text-katas
                page-katas
                sprites-katas)
+
+@section{Docs}
+@(include-extracted cutscene/lang/main)
+@(include-extracted meta-engine/extensions/sprites/main)
+@(include-extracted meta-engine/addons/cutscene/main)
               
